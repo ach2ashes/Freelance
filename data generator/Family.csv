@@ -1,0 +1,6 @@
+FamilyID,FamilyMemberCount,FamilyName,PortOfEntry,DateOfEntry,ReasonForVisit,HasRelativesInUS
+1,2,Campbell,Miami,20211111,Visit Family,False
+2,2,Smith,El Paso,20200601,Asylum,False
+3,4,Campbell,El Paso,20200619,Asylum,False
+4,6,Campbell,Miami,20210822,Visit Family,False
+5,2,Smith,El Paso,20220316,Asylum,False

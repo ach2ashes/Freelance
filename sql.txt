@@ -1,0 +1,51 @@
+query1:
+WITH report AS (
+  SELECT
+    t2.product_size AS Size,
+    t2.product_gender AS Gender,
+    t2.product_category AS Category,
+    t1.dfa_revenue AS Revenue,
+    t1.dfa_transactions AS Transactions,
+    t1.clicks AS Clicks,
+    t1.cost AS Cost,
+    t1.impr AS Impressions,
+    t1.cost / t1.clicks AS 'Cost/Click'
+  FROM
+    table1 t1
+    INNER JOIN table2 t2 ON t1.Product ID = t2.Product ID
+  WHERE
+    t2.product_category = 'Clothing & Accessories > Shoes'
+    AND t2.product_custom_label_4 = 'Adult'
+    AND STR_TO_DATE(t1.dated, '%m/%d/%Y') BETWEEN '2021-03-26' AND '2021-03-30'
+)
+
+SELECT *
+FROM report;
+
+
+query2:
+WITH top_product AS (
+  SELECT 
+    t2.product_gender AS Gender,
+    t2.product_category AS Category,
+    t2.product_custom_label_0 AS Custom_Label_0,
+    t2.product_custom_label_1 AS Custom_Label_1,
+    t2.product_custom_label_2 AS Custom_Label_2,
+    t1.Product ID AS Product_ID,
+    t1.dfa_revenue AS Revenue
+  FROM 
+    table1 t1
+    INNER JOIN table2 t2 ON t1.Product ID = t2.Product ID
+  WHERE 
+    t2.product_gender IN ('male', 'female', 'unisex')
+  ORDER BY 
+    t2.product_gender ASC, t1.dfa_revenue DESC
+  LIMIT 
+    5
+)
+
+SELECT *
+FROM top_product;
+
+
+

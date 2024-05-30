@@ -1,0 +1,21 @@
+﻿Player;Team;Position;Age;Contract expires;Minutes played;Goals;Foot;PAdj Interceptions;Successful attacking actions per 90;Goals per 90;xG per 90;Shots per 90;Shots on target, %;Goal conversion, %;Successful dribbles, %;Offensive duels won, %;Touches in box per 90;Accelerations per 90;Shot assists per 90
+K. Dong;Troyes;RW, RWF, LAMF;19;;1813;1;right;2,82;4,42;0,05;0,09;0,84;35,29;5,882;60,95;47,66;2,48;1,04;0,79
+E. Bardeli;Dunkerque;AMF, CF, LCMF;22;;2381;3;right;4,1;2,38;0,11;0,11;0,72;52,63;15,789;53,62;43,43;1,55;1,21;1,21
+A. Boutoutaou;Valenciennes;LW, RW, AMF;23;2025-06-30;1482;4;right;3,44;5,22;0,24;0,31;3,16;38,46;7,692;48,67;39,85;2,13;0,97;0,85
+Z. Davitashvili;Bordeaux;LWF, RAMF, AMF;23;2024-06-30;2087;3;right;3,27;3,54;0,13;0,3;1,98;34,78;6,522;52,17;36,96;4,14;2,2;1,12
+K. Corredor;Rodez ;CF, LWF;23;2026-06-30;2625;9;right;1,38;3,74;0,31;0,34;2,71;39,24;11,392;51,97;33,82;3,98;0,65;0,72
+R. Saïd;Troyes;LW, LWF, LAMF;24;;2206;9;right;3,79;4,24;0,37;0,25;1,75;58,14;20,93;42,14;34,19;2,98;1,26;0,45
+L. Sinayoko;Auxerre;LAMF, RAMF, CF;24;2025-06-30;1610;5;right;5;4,47;0,28;0,28;2,8;26;10;44,44;37;5,7;0,34;1,01
+J. Lukembila;Paris;LW, LAMF;24;2025-06-30;1665;3;right;4,06;2,86;0,16;0,16;1,19;31,82;13,636;50;35,26;2,76;0,49;0,54
+A. Sagna;Guingamp;LW, LAMF;24;2025-06-30;1856;5;right;3,69;6,11;0,24;0,16;1,6;36,36;15,152;57,72;40,48;3,83;1,31;1,07
+J. Livolant;Bordeaux;LAMF, RWF, AMF;26;2024-06-30;1839;2;right;2,65;3,38;0,1;0,18;1,57;46,88;6,25;56,72;43,67;3,13;0,39;0,83
+F. El Melali;Angers SCO;LW, LAMF, RW;26;2025-06-30;1526;7;right;5,32;5,9;0,41;0,31;2,77;36,17;14,894;51,43;41,25;3,77;1,47;0,59
+G. Weissbeck;Bordeaux;LCMF, AMF, CF;27;2025-06-30;1900;3;right;4,22;2,27;0,14;0,18;2,61;36,36;5,455;50;24,73;2,13;0,81;0,85
+G. Perrin;Auxerre;RAMF, LAMF, AMF;27;2026-06-30;2498;7;right;2,67;5,58;0,25;0,19;1,73;41,67;14,583;53,55;42,94;3,53;0,65;2,2
+A. Onaiwu;Auxerre;LAMF, CF;28;2024-06-30;1343;8;right;3,21;2,61;0,54;0,41;2,61;28,21;20,513;51,35;35,11;4,15;0,4;0,74
+K. Djoco;Annecy;CF, LWF;28;2025-06-30;1633;3;right;2,27;2,81;0,17;0,21;1,6;37,93;10,345;52,94;35;2,98;0,99;0,61
+L. Mafouta;Amiens SC;CF, LAMF;29;2025-06-30;2362;9;right;2,01;1,56;0,34;0,32;1,71;42,22;20;42,42;30,53;3,43;0,27;0,61
+P. Hamel;Paris;CF, AMF;30;2026-06-30;1322;8;right;3,79;1,43;0,54;0,47;2,04;50;26,667;57,14;27,94;3,34;0,14;0,14
+C. Vincent;Bastia;RWF, AMF, RW;31;2025-06-30;1919;1;right;4,07;2,25;0,05;0,15;1,27;29,63;3,704;50;29,19;1,36;0,42;1,03
+H. Saivet;Pau;CF, AMF;33;2024-06-30;1876;7;right;3,18;2,11;0,34;0,22;1,01;52,38;33,333;70,37;48,04;0,91;0,29;1,15
+Y. M'Changama;Troyes;AMF, LDMF, LCMF;33;2024-06-30;1334;0;right;3,72;2,29;0;0,1;1,08;18,75;0;51,72;42,86;0,4;0,2;0,54

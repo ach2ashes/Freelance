@@ -1,0 +1,17 @@
+PersonID,FamilyID,Last Name,First Name,PortOfEntry,PortOfEntry.1,DateOfEntry,Citizenship,Gender,DOB,Age,NumberInteractions,DestinationID,Destination Address
+1,1,Campbell,Matthew,Miami,New Orleans,20240105,Mexico,Male,19980612,26,2,46,410 Smith  Street
+2,1,Smith,Jamie,San Diego,New Orleans,20220625,Brazil,Male,20010617,23,1,23,548 Smith  Street
+3,2,Campbell,Matthew,New Orleans,New Orleans,20200811,China,Female,19690423,55,1,100,1772 Smith  Street
+4,2,Smith,Jamie,Detroit,San Diego,20201205,China,Male,19820214,42,3,29,699 Campbell  Street
+5,3,Smith,Jamie,El Paso,Detroit,20230510,China,Female,19820202,42,3,42,1127 Smith  Street
+6,3,Smith,Matthew,New York,New York,20221019,Colombia,Male,19730818,50,3,33,621 Smith  Street
+7,3,Smith,Matthew,Miami,New Orleans,20231201,Colombia,Male,19860410,38,1,19,458 Smith  Street
+8,3,Smith,Matthew,San Diego,El Paso,20210526,Brazil,Female,19560105,68,1,69,1277 Campbell  Street
+9,4,Smith,Jamie,San Diego,New Orleans,20220127,China,Male,19870804,36,3,83,1465 Campbell  Street
+10,4,Smith,Matthew,Detroit,Miami,20230804,Mexico,Male,19441016,79,2,22,1998 Smith  Street
+11,4,Smith,Matthew,Miami,New York,20230312,Mexico,Male,20120907,11,2,9,808 Smith  Street
+12,4,Campbell,Matthew,San Diego,El Paso,20230224,Nicaragua,Female,19970228,27,3,91,1284 Smith  Street
+13,4,Smith,Matthew,El Paso,New York,20230530,China,Male,19820612,42,3,56,1171 Campbell  Street
+14,4,Smith,Jamie,New Orleans,New Orleans,20211105,Nicaragua,Male,19750912,48,2,7,339 Smith  Street
+15,5,Smith,Jamie,San Diego,Miami,20230216,Nicaragua,Female,19820116,42,1,91,1284 Smith  Street
+16,5,Smith,Jamie,Detroit,El Paso,20221107,Nicaragua,Male,19770105,47,3,90,372 Campbell  Street

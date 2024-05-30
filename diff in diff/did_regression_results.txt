@@ -1,0 +1,114 @@
+GEOID: 12095010500
+	Outcome: AAE, Coefficient: 0.0, P-Value: nan
+	Outcome: ABK, Coefficient: 0.0, P-Value: nan
+	Outcome: AIC, Coefficient: 0.0, P-Value: nan
+	Outcome: BHN, Coefficient: 0.0, P-Value: nan
+	Outcome: EQ, Coefficient: 0.0, P-Value: nan
+	Outcome: FOW, Coefficient: 0.0, P-Value: nan
+	Outcome: HW, Coefficient: 0.0, P-Value: nan
+	Outcome: INC, Coefficient: 0.0, P-Value: nan
+	Outcome: NBMC, Coefficient: 0.0, P-Value: nan
+	Outcome: OPP, Coefficient: 0.0, P-Value: nan
+	Outcome: PFC, Coefficient: 0.0, P-Value: nan
+	Outcome: PR, Coefficient: 0.0, P-Value: nan
+	Outcome: PS, Coefficient: 0.0, P-Value: nan
+	Outcome: SH, Coefficient: 0.0, P-Value: nan
+	Outcome: SPI, Coefficient: 0.0, P-Value: nan
+	Outcome: WS, Coefficient: 0.0, P-Value: nan
+	Outcome: intervention, Coefficient: 0.0, P-Value: nan
+
+GEOID: 12095012100
+	Outcome: AAE, Coefficient: -1.779999999999994, P-Value: nan
+	Outcome: ABK, Coefficient: 9.745000000000005, P-Value: nan
+	Outcome: AIC, Coefficient: 14.245000000000003, P-Value: nan
+	Outcome: BHN, Coefficient: 8.135000000000005, P-Value: nan
+	Outcome: EQ, Coefficient: 4.890000000000004, P-Value: nan
+	Outcome: FOW, Coefficient: 7.885000000000002, P-Value: nan
+	Outcome: HW, Coefficient: 2.6400000000000077, P-Value: nan
+	Outcome: INC, Coefficient: -1.4899999999999878, P-Value: nan
+	Outcome: NBMC, Coefficient: 5.175000000000008, P-Value: nan
+	Outcome: OPP, Coefficient: -1.7299999999999898, P-Value: nan
+	Outcome: PFC, Coefficient: -3.679999999999989, P-Value: nan
+	Outcome: PR, Coefficient: 0.030000000000015348, P-Value: nan
+	Outcome: PS, Coefficient: 27.03, P-Value: nan
+	Outcome: SH, Coefficient: -4.294999999999991, P-Value: nan
+	Outcome: SPI, Coefficient: 4.760000000000005, P-Value: nan
+	Outcome: WS, Coefficient: 4.640000000000008, P-Value: nan
+	Outcome: intervention, Coefficient: 2.500000000000341, P-Value: nan
+
+GEOID: 12095014601
+	Outcome: AAE, Coefficient: -0.6699999999999946, P-Value: nan
+	Outcome: ABK, Coefficient: -0.03499999999999304, P-Value: nan
+	Outcome: AIC, Coefficient: 13.185000000000006, P-Value: nan
+	Outcome: BHN, Coefficient: 4.905000000000005, P-Value: nan
+	Outcome: EQ, Coefficient: 0.7350000000000065, P-Value: nan
+	Outcome: FOW, Coefficient: 3.2300000000000075, P-Value: nan
+	Outcome: HW, Coefficient: -0.9699999999999918, P-Value: nan
+	Outcome: INC, Coefficient: 3.875000000000007, P-Value: nan
+	Outcome: NBMC, Coefficient: 5.800000000000006, P-Value: nan
+	Outcome: OPP, Coefficient: -0.7549999999999919, P-Value: nan
+	Outcome: PFC, Coefficient: -8.08999999999999, P-Value: nan
+	Outcome: PR, Coefficient: 1.8850000000000087, P-Value: nan
+	Outcome: PS, Coefficient: 7.765000000000008, P-Value: nan
+	Outcome: SH, Coefficient: 0.3200000000000074, P-Value: nan
+	Outcome: SPI, Coefficient: 2.4600000000000044, P-Value: nan
+	Outcome: WS, Coefficient: 5.730000000000004, P-Value: nan
+	Outcome: intervention, Coefficient: 2.500000000000341, P-Value: nan
+
+GEOID: 12095014806
+	Outcome: AAE, Coefficient: 0.0, P-Value: nan
+	Outcome: ABK, Coefficient: 0.0, P-Value: nan
+	Outcome: AIC, Coefficient: 0.0, P-Value: nan
+	Outcome: BHN, Coefficient: 0.0, P-Value: nan
+	Outcome: EQ, Coefficient: 0.0, P-Value: nan
+	Outcome: FOW, Coefficient: 0.0, P-Value: nan
+	Outcome: HW, Coefficient: 0.0, P-Value: nan
+	Outcome: INC, Coefficient: 0.0, P-Value: nan
+	Outcome: NBMC, Coefficient: 0.0, P-Value: nan
+	Outcome: OPP, Coefficient: 0.0, P-Value: nan
+	Outcome: PFC, Coefficient: 0.0, P-Value: nan
+	Outcome: PR, Coefficient: 0.0, P-Value: nan
+	Outcome: PS, Coefficient: 0.0, P-Value: nan
+	Outcome: SH, Coefficient: 0.0, P-Value: nan
+	Outcome: SPI, Coefficient: 0.0, P-Value: nan
+	Outcome: WS, Coefficient: 0.0, P-Value: nan
+	Outcome: intervention, Coefficient: 0.0, P-Value: nan
+
+GEOID: 12095018500
+	Outcome: AAE, Coefficient: 1.9100000000000072, P-Value: nan
+	Outcome: ABK, Coefficient: -0.46999999999999176, P-Value: nan
+	Outcome: AIC, Coefficient: 18.475, P-Value: nan
+	Outcome: BHN, Coefficient: 13.240000000000002, P-Value: nan
+	Outcome: EQ, Coefficient: 1.880000000000006, P-Value: nan
+	Outcome: FOW, Coefficient: 5.0000000000000036, P-Value: nan
+	Outcome: HW, Coefficient: 0.13500000000000867, P-Value: nan
+	Outcome: INC, Coefficient: -1.089999999999982, P-Value: nan
+	Outcome: NBMC, Coefficient: 8.690000000000001, P-Value: nan
+	Outcome: OPP, Coefficient: 0.6650000000000098, P-Value: nan
+	Outcome: PFC, Coefficient: -5.329999999999991, P-Value: nan
+	Outcome: PR, Coefficient: 7.16500000000001, P-Value: nan
+	Outcome: PS, Coefficient: 28.475000000000005, P-Value: nan
+	Outcome: SH, Coefficient: 16.865000000000006, P-Value: nan
+	Outcome: SPI, Coefficient: 6.300000000000004, P-Value: nan
+	Outcome: WS, Coefficient: -1.0799999999999947, P-Value: nan
+	Outcome: intervention, Coefficient: 2.500000000000341, P-Value: nan
+
+GEOID: 12095010300
+	Outcome: AAE, Coefficient: 0.0, P-Value: nan
+	Outcome: ABK, Coefficient: 0.0, P-Value: nan
+	Outcome: AIC, Coefficient: 0.0, P-Value: nan
+	Outcome: BHN, Coefficient: 0.0, P-Value: nan
+	Outcome: EQ, Coefficient: 0.0, P-Value: nan
+	Outcome: FOW, Coefficient: 0.0, P-Value: nan
+	Outcome: HW, Coefficient: 0.0, P-Value: nan
+	Outcome: INC, Coefficient: 0.0, P-Value: nan
+	Outcome: NBMC, Coefficient: 0.0, P-Value: nan
+	Outcome: OPP, Coefficient: 0.0, P-Value: nan
+	Outcome: PFC, Coefficient: 0.0, P-Value: nan
+	Outcome: PR, Coefficient: 0.0, P-Value: nan
+	Outcome: PS, Coefficient: 0.0, P-Value: nan
+	Outcome: SH, Coefficient: 0.0, P-Value: nan
+	Outcome: SPI, Coefficient: 0.0, P-Value: nan
+	Outcome: WS, Coefficient: 0.0, P-Value: nan
+	Outcome: intervention, Coefficient: 0.0, P-Value: nan
+

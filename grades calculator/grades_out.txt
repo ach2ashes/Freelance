@@ -1,0 +1,7 @@
+91007,AhmadSaid#,50.0,78.5,73.2
+91004,HassanKhan#,45.5,36.7,88.5
+91003,SuleimanWasim#,72.6,66.4,56.7
+91002,MajedSameer#,60.0,78.4,45.6
+91006,MuhammadAdel#,85.5,69.8,44.5
+91005,MuhsimZuheir#,70.0,62.1,95.4
+91001,MuneebAbdullatif#,30.0,56.5,44.8

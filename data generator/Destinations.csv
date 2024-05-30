@@ -1,0 +1,101 @@
+DestinationID,City,NearestPortOfEntry,Address
+1,Atlanta,El Paso,354 Smith  Street
+2,Phoenix,San Diego,1244 Campbell  Street
+3,Boston,New Orleans,1397 Campbell  Street
+4,Buffalo,Miami,1050 Smith  Street
+5,Miami,Detroit,1886 Campbell  Street
+6,Los Angeles,Detroit,908 Campbell  Street
+7,Atlanta,New Orleans,339 Smith  Street
+8,Washington DC,New Orleans,1022 Smith  Street
+9,Los Angeles,Miami,808 Smith  Street
+10,Denver,Detroit,1691 Campbell  Street
+11,Phoenix,El Paso,419 Campbell  Street
+12,Las Vegas,New Orleans,135 Smith  Street
+13,Las Vegas,Detroit,1802 Campbell  Street
+14,Los Angeles,Miami,1080 Smith  Street
+15,Kansas City,San Diego,1664 Campbell  Street
+16,New York,Miami,725 Smith  Street
+17,Boston,New Orleans,730 Smith  Street
+18,Atlanta,San Diego,1532 Campbell  Street
+19,San Francisco,Miami,458 Smith  Street
+20,Washington DC,El Paso,1023 Smith  Street
+21,San Francisco,New York,195 Smith  Street
+22,Denver,Detroit,1998 Smith  Street
+23,Phoenix,San Diego,548 Smith  Street
+24,Los Angeles,Detroit,956 Smith  Street
+25,Chicago,Detroit,1244 Smith  Street
+26,Phoenix,San Diego,1966 Smith  Street
+27,Houston,New York,530 Campbell  Street
+28,Seattle,New York,1946 Campbell  Street
+29,Phoenix,Detroit,699 Campbell  Street
+30,Miami,El Paso,1398 Campbell  Street
+31,Detroit,El Paso,691 Campbell  Street
+32,Phoenix,Miami,392 Smith  Street
+33,Atlanta,New York,621 Smith  Street
+34,Atlanta,New Orleans,1037 Smith  Street
+35,Richmond,Miami,624 Campbell  Street
+36,San Diego,Miami,1805 Smith  Street
+37,Washington DC,Miami,1054 Smith  Street
+38,Denver,New Orleans,281 Campbell  Street
+39,Houston,Miami,1763 Smith  Street
+40,Cleveland,Miami,1272 Smith  Street
+41,New York,Detroit,1064 Smith  Street
+42,Atlanta,El Paso,1127 Smith  Street
+43,Denver,Detroit,1646 Smith  Street
+44,Buffalo,New York,605 Smith  Street
+45,Denver,El Paso,309 Campbell  Street
+46,San Francisco,Miami,410 Smith  Street
+47,Washington DC,New York,1948 Campbell  Street
+48,San Francisco,New Orleans,1553 Smith  Street
+49,Chicago,Detroit,624 Campbell  Street
+50,San Francisco,San Diego,1187 Campbell  Street
+51,Cleveland,Detroit,1315 Smith  Street
+52,Boston,San Diego,1583 Smith  Street
+53,San Diego,New York,1321 Smith  Street
+54,Tampa,Miami,133 Campbell  Street
+55,Cleveland,El Paso,878 Smith  Street
+56,Miami,El Paso,1171 Campbell  Street
+57,Detroit,New Orleans,1786 Smith  Street
+58,Chicago,Detroit,110 Smith  Street
+59,Denver,Detroit,123 Campbell  Street
+60,Atlanta,Detroit,1756 Campbell  Street
+61,Los Angeles,El Paso,1152 Smith  Street
+62,Washington DC,New Orleans,1452 Smith  Street
+63,St Louis,New York,151 Campbell  Street
+64,Chicago,San Diego,929 Campbell  Street
+65,Chicago,New Orleans,922 Smith  Street
+66,Los Angeles,El Paso,1848 Smith  Street
+67,Los Angeles,Miami,956 Campbell  Street
+68,St Louis,New York,1706 Campbell  Street
+69,Detroit,San Diego,1277 Campbell  Street
+70,Cleveland,Miami,993 Smith  Street
+71,Atlanta,El Paso,1667 Campbell  Street
+72,San Francisco,New York,1980 Smith  Street
+73,Boston,San Diego,1660 Campbell  Street
+74,Atlanta,Detroit,670 Smith  Street
+75,Detroit,El Paso,535 Campbell  Street
+76,Phoenix,El Paso,1184 Campbell  Street
+77,Kansas City,Detroit,1856 Smith  Street
+78,San Diego,Detroit,1955 Smith  Street
+79,Denver,Detroit,1578 Campbell  Street
+80,Las Vegas,New Orleans,1818 Campbell  Street
+81,New York,El Paso,472 Campbell  Street
+82,Boston,New York,1391 Smith  Street
+83,Atlanta,San Diego,1465 Campbell  Street
+84,Las Vegas,New Orleans,807 Smith  Street
+85,Los Angeles,New York,1455 Campbell  Street
+86,Denver,Detroit,478 Campbell  Street
+87,Tampa,Detroit,731 Campbell  Street
+88,Boston,Miami,815 Campbell  Street
+89,Buffalo,New Orleans,1870 Smith  Street
+90,Washington DC,Detroit,372 Campbell  Street
+91,New York,San Diego,1284 Smith  Street
+92,Washington DC,San Diego,714 Smith  Street
+93,Seattle,San Diego,1100 Campbell  Street
+94,New York,El Paso,703 Smith  Street
+95,Cleveland,Miami,1673 Campbell  Street
+96,St Louis,Detroit,1898 Campbell  Street
+97,Cleveland,Miami,1970 Smith  Street
+98,Atlanta,San Diego,1142 Smith  Street
+99,Kansas City,El Paso,380 Smith  Street
+100,Denver,New Orleans,1772 Smith  Street

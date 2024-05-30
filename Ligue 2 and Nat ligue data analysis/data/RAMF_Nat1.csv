@@ -1,0 +1,21 @@
+﻿Player;Team;Position;Age;Contract expires;Minutes played;Goals;Foot;PAdj Interceptions;Successful attacking actions per 90;Goals per 90;xG per 90;Crosses to goalie box per 90;Offensive duels won, %;Touches in box per 90;Progressive runs per 90;Accelerations per 90;xA per 90;Shot assists per 90;Key passes per 90;Passes to penalty area per 90;Deep completions per 90;Deep completed crosses per 90
+N. Fatar;Sochaux;RW, RAMF, RWF;22;2025-06-30;1284;5;left;6,62;4,47;0,35;0,28;0,4;41,86;2,31;1,99;0,64;0,16;0,96;0,32;2,63;0,8;0,48
+A. Kerouedan;Avranches;CF, RW, AMF;24;2024-06-30;2161;12;right;2,67;3,08;0,5;0,48;0,29;48,09;3,08;1,12;0,29;0,15;0,96;0,58;1,87;0,58;0,71
+B. Soumaré;Dijon;AMF, RCMF;25;2024-06-30;1284;1;left;2,82;4,77;0,07;0,15;0;54,55;1,26;3,5;0,91;0,16;1,19;0,56;3,01;1,61;0,35
+M. Ifnaoui;Red Star;AMF, RWF;25;;2067;3;left;4,21;5,29;0,13;0,21;0,54;43,6;2,27;3,36;1,78;0,36;2,62;0,84;4,55;1,68;1,19
+L. Socka Bongué;GOAL FC;CF, RWF;25;2024-06-30;1612;2;right;1,87;2,62;0,11;0,19;0,06;30,92;2,29;1,51;0,33;0,08;0,45;0,39;1,4;0,45;0,33
+A. Hemia;Martigues;AMF, LCMF;26;;1754;6;right;2,64;3,62;0,31;0,35;0,27;49,19;2,11;1,68;0,59;0,12;0,7;0,32;1,89;0,76;0,38
+M. Sy;Marignane Gignac CB;RAMF, LCMF, RCMF;26;2024-06-30;1372;1;left;1,92;5,23;0,07;0,14;0;49,34;1,44;2,89;1,65;0,05;0,96;0,28;2,06;0,69;0,62
+D. Michel;Sochaux;RAMF, LAMF;26;;1381;4;right;4,49;2,01;0,26;0,22;0,07;32,65;2,97;1,71;0,89;0,13;0,74;0,3;1,93;1,41;0,37
+B. Labissiere;Épinal;CF, RW, RAMF;27;2024-06-30;1609;4;right;2,42;1,57;0,22;0,13;0,06;29,9;2,29;1,34;0,84;0,08;0,56;0,17;1,79;0,67;0,22
+J. Halby-Touré;Orléans;RWB, RW, RB;27;;1599;2;right;5,82;2,06;0,11;0,07;0,94;42,25;1,17;1,35;0,47;0,14;0,76;0,53;3,41;0,59;0,94
+L. Goujon;Orléans;RCMF, LCMF, AMF;28;;1896;1;right;5,62;1,99;0,05;0,15;0,25;42,68;1,59;0,9;0,15;0,08;0,5;0,25;1,3;0,3;0,55
+M. Boussaïd;Le Mans;RW, RAMF;28;;1792;5;left;2,39;5,52;0,25;0,25;0,2;38,95;1,96;2,71;0,4;0,18;1,76;0,5;3,72;1,66;0,7
+Y. Le Méhauté;Le Mans;CF, AMF, LCMF;29;;1414;3;right;2,81;2,16;0,19;0,11;0;36,46;1,08;1,27;0,19;0,17;1,27;0,51;2,67;0,7;0,57
+D. Diarra;Marignane Gignac CB;CF, RWF, RW;29;;2011;13;right;2,68;3,14;0,58;0,33;0,23;27,8;2,48;1,64;0,75;0,08;0,52;0,33;2,3;0,66;0,47
+O. Abdeldjelil;Cholet;CF, AMF;30;;1374;4;right;3,36;1,59;0,26;0,32;0,07;20,86;2,18;0,66;0,33;0,02;0,33;0;1,26;0,4;0,13
+K. Hoggas;Sochaux;AMF, LCMF, CF;32;;1668;7;right;3,39;2,39;0,38;0,29;0;31,53;2,17;0,67;0,33;0,35;2,45;0,72;2,23;1,5;0,33
+K. Schur;Dijon;CF, RAMF, RWF;33;;1324;3;right;2,57;3,26;0,2;0,28;0,48;32,74;1,97;0,68;0,14;0,28;2,04;0,48;3,47;0,61;0,95
+K. Tlili;Martigues;CF, LAMF, RAMF;34;;1638;5;right;2,62;5,08;0,27;0,17;0,29;34,19;1,79;1,5;0,46;0,21;1,38;0,92;4,04;0,98;1,67
+K. Fortuné;Orléans;CF, AMF;34;2024-06-30;1663;7;right;1,82;3,89;0,38;0,32;0,4;37,2;2;2,57;0,4;0,19;1,49;0,34;4,06;1,26;0,74
+S. Chéré;Épinal;AMF, LCMF, RCMF;37;2024-06-30;2072;0;right;4,9;1,26;0;0,01;0;32,6;0,43;0,96;0,22;0,05;0,61;0,22;1,43;0,43;0,17

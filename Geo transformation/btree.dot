@@ -1,0 +1,19 @@
+digraph btree {
+  node [shape=record];
+  
+  F [label="<C>A|<D>B|<E>D"];
+  C [label="<A>A|<B>B"];
+  J [label="<G>G|<H>H|<I>I|<K>K"];
+
+  F -> C;
+  F -> J;
+  C -> A;
+  C -> B;
+  C -> D;
+  J -> G;
+  J -> H;
+  J -> I;
+  J -> K;
+}
+
+
